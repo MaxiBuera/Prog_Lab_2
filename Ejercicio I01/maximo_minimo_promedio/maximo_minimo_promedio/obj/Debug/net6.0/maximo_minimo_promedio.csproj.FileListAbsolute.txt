@@ -1,0 +1,15 @@
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\bin\Debug\net6.0\maximo_minimo_promedio.exe
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\bin\Debug\net6.0\maximo_minimo_promedio.deps.json
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\bin\Debug\net6.0\maximo_minimo_promedio.runtimeconfig.json
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\bin\Debug\net6.0\maximo_minimo_promedio.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\bin\Debug\net6.0\maximo_minimo_promedio.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.csproj.AssemblyReference.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.AssemblyInfoInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.AssemblyInfo.cs
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.csproj.CoreCompileInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\refint\maximo_minimo_promedio.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\maximo_minimo_promedio.genruntimeconfig.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\Ejercicio I01\maximo_minimo_promedio\maximo_minimo_promedio\obj\Debug\net6.0\ref\maximo_minimo_promedio.dll
