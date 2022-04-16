@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\CalcularUnFactorial\\CalcularUnFactorial.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\CalcularUnFactorial\\CalcularUnFactorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\CalcularUnFactorial\\CalcularUnFactorial.csproj",
+        "projectName": "CalcularUnFactorial",
+        "projectPath": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\CalcularUnFactorial\\CalcularUnFactorial.csproj",
+        "packagesPath": "C:\\Users\\maximiliano.e.buera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\CalcularUnFactorial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maximiliano.e.buera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\Factorial.csproj": {
+                "projectPath": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\Factorial.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\Factorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\Factorial.csproj",
+        "projectName": "Factorial",
+        "projectPath": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\Factorial.csproj",
+        "packagesPath": "C:\\Users\\maximiliano.e.buera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maximiliano.e.buera\\Desktop\\Prog_Lab_2\\2_Ejercicio A01\\CalcularUnFactorial\\Factorial\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maximiliano.e.buera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

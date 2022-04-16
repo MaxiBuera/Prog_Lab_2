@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CalcularUnFactorial/1.0.0": {
+        "dependencies": {
+          "Factorial": "1.0.0"
+        },
+        "runtime": {
+          "CalcularUnFactorial.dll": {}
+        }
+      },
+      "Factorial/1.0.0": {
+        "runtime": {
+          "Factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularUnFactorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

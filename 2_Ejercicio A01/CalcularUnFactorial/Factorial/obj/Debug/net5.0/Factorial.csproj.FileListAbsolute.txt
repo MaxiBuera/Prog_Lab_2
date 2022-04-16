@@ -1,0 +1,12 @@
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\refint\Factorial.dll
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\Factorial.pdb
+C:\Users\maximiliano.e.buera\Desktop\Prog_Lab_2\2_Ejercicio A01\CalcularUnFactorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll

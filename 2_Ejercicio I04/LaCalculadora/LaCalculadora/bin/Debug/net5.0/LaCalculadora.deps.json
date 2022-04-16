@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LaCalculadora/1.0.0": {
+        "dependencies": {
+          "Calculadora": "1.0.0"
+        },
+        "runtime": {
+          "LaCalculadora.dll": {}
+        }
+      },
+      "Calculadora/1.0.0": {
+        "runtime": {
+          "Calculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaCalculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
