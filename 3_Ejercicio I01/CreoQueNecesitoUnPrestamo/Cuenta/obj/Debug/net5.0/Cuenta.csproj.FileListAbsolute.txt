@@ -1,0 +1,12 @@
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\bin\Debug\net5.0\Cuenta.deps.json
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\bin\Debug\net5.0\Cuenta.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\bin\Debug\net5.0\Cuenta.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.csproj.AssemblyReference.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.AssemblyInfoInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.AssemblyInfo.cs
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\refint\Cuenta.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\Cuenta.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I01\CreoQueNecesitoUnPrestamo\Cuenta\obj\Debug\net5.0\ref\Cuenta.dll

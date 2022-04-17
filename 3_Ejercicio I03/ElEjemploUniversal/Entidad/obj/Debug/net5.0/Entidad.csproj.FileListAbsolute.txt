@@ -1,0 +1,12 @@
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.csproj.AssemblyReference.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.AssemblyInfo.cs
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\bin\Debug\net5.0\Entidad.deps.json
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\bin\Debug\net5.0\Entidad.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\bin\Debug\net5.0\Entidad.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\refint\Entidad.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\Entidad.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\3_Ejercicio I03\ElEjemploUniversal\Entidad\obj\Debug\net5.0\ref\Entidad.dll
