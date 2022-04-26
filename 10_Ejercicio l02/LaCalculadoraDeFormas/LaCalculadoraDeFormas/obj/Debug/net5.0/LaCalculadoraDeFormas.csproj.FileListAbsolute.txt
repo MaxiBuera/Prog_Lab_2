@@ -1,0 +1,12 @@
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\bin\Debug\net5.0\LaCalculadoraDeFormas.deps.json
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\bin\Debug\net5.0\LaCalculadoraDeFormas.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\bin\Debug\net5.0\LaCalculadoraDeFormas.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.csproj.AssemblyReference.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.AssemblyInfoInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.AssemblyInfo.cs
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.csproj.CoreCompileInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\refint\LaCalculadoraDeFormas.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\LaCalculadoraDeFormas.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l02\LaCalculadoraDeFormas\LaCalculadoraDeFormas\obj\Debug\net5.0\ref\LaCalculadoraDeFormas.dll

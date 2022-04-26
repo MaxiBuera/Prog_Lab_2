@@ -1,0 +1,16 @@
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.exe
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.deps.json
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.runtimeconfig.json
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.runtimeconfig.dev.json
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\bin\Debug\net5.0\SobrescribiendoEsasAdvertencias.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.csproj.AssemblyReference.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.AssemblyInfoInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.AssemblyInfo.cs
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.csproj.CoreCompileInputs.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\refint\SobrescribiendoEsasAdvertencias.dll
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.pdb
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\SobrescribiendoEsasAdvertencias.genruntimeconfig.cache
+C:\Users\Maxii\Documents\Prog_Lab_2\10_Ejercicio l01\SobrescribiendoEsasAdvertencias\SobrescribiendoEsasAdvertencias\obj\Debug\net5.0\ref\SobrescribiendoEsasAdvertencias.dll

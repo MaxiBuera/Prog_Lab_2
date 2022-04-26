@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaCalculadoraDeFormas", "LaCalculadoraDeFormas\LaCalculadoraDeFormas.csproj", "{AA907B5F-9AA3-4761-892F-4EDD10E25D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola", "Consola\Consola.csproj", "{F81794A4-1F14-4E3E-BEA5-F6801E733CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA907B5F-9AA3-4761-892F-4EDD10E25D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA907B5F-9AA3-4761-892F-4EDD10E25D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA907B5F-9AA3-4761-892F-4EDD10E25D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA907B5F-9AA3-4761-892F-4EDD10E25D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81794A4-1F14-4E3E-BEA5-F6801E733CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81794A4-1F14-4E3E-BEA5-F6801E733CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81794A4-1F14-4E3E-BEA5-F6801E733CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81794A4-1F14-4E3E-BEA5-F6801E733CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1026FF7F-F70A-4915-A52D-F7CC40160902}
+	EndGlobalSection
+EndGlobal
